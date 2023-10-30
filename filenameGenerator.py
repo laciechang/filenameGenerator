@@ -1,3 +1,7 @@
+# -*- coding:utf-8 -*-
+# Author: 张来吃
+# Version: 1.0.0
+# Contact: laciechang@163.com
 import datetime
 import importlib.util
 import tempfile
